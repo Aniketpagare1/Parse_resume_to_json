@@ -1,0 +1,118 @@
+{
+    "personal_information": {
+        "name": "Aniket Pagare",
+        "location": "MH, IN",
+        "phone": "9404185476",
+        "linkedin": "https://www.linkedin.com/in/aniket-pagare-b8b4bb294/",
+        "email": "aniket.pagare22@vit.edu"
+    },
+    "education": [
+        {
+            "institution": "Vishwakarma Institute of Technology - Savitribai Phule Pune University, Pune",
+            "degree": "Bachelor of Technology, Computer Engineering",
+            "gpa": "8.39/10",
+            "expected_graduation": "June 2025",
+            "relevant_coursework": [
+                "Data Structures",
+                "Cloud Computing",
+                "Operating Systems",
+                "Software Design and Modelling",
+                "Data Science",
+                "DBMS",
+                "OOP",
+                "Artificial Intelligence",
+                "Cyber Security"
+            ]
+        },
+        {
+            "institution": "Marathwada Institute of Technology, Rotegaon - MSBTE",
+            "degree": "Diploma in Computer Engineering",
+            "gpa": "92.74/100",
+            "graduation": "June 2022",
+            "relevant_coursework": [
+                "Data Communication and Computer Network",
+                "Software Engineering",
+                "Software Testing",
+                "Mobile Application Development",
+                "Programming with Python"
+            ]
+        }
+    ],
+    "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "C",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQL",
+        "PHP",
+        "Canva",
+        "Microsoft Office",
+        "Git",
+        "GitHub",
+        "Flask",
+        "Django",
+        "Pandas",
+        "Numpy",
+        "Cloud(AWS/GCP)",
+        "Docker and Kubernetes",
+        "Machine Learning",
+        "OpenCV",
+        "Keras",
+        "Tensorflow",
+        "Android Studio",
+        "Visual Studio Code",
+        "PyCharm",
+        "Requirements Gathering and Analysis",
+        "Software Development Life Cycle- SLDC",
+        "Problem-Solving",
+        "Documentation and Reporting",
+        "Project Management"
+    ],
+    "publication": [
+        {
+            "conference": "International Conference on Engineering & Technology (ICET-23)",
+            "title": "Classification of Classical Indian Music Tabla Taals using Deep Learning"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Classification of Classical Indian Music Tabla Strokes",
+            "description": [
+                "Developed and implemented a Convolutional Neural Network (CNN) tailored for the automated classification of Classical Indian Tabla Taals, exhibiting a high degree of accuracy in discerning complex rhythmic patterns across various taals, including adhatrital, ektaal, rupak, dadra, deepchandi, jhaptal, trital and bhajani.",
+                "Developed a user-friendly GUI for instant Tabla stroke recognition in audio files, bridging advanced machine learning with traditional music."
+            ]
+        },
+        {
+            "title": "Revolutionizing Agriculture through Soil-Driven Crop Selection",
+            "description": [
+                "Implemented a cost-effective solution utilizing the K-nearest neighbour algorithm, providing farmers with a powerful tool to recommend suitable crops based on key soil parameters such as moisture, temperature, humidity, and pH values.",
+                "This approach contributes to informed decision-making for optimized crop selection."
+            ]
+        },
+        {
+            "title": "Music Genre Recognition for Marathi (Regional) language using Machine Learning",
+            "description": [
+                "Developed a music genre classification model focusing on Marathi songs using machine learning algorithms.",
+                "Extracted various features from music tracks to train the model, enhancing its accuracy.",
+                "Implemented Convolutional Neural Network (CNN) algorithms to classify Marathi songs into distinct genres.",
+                "Designed a user-friendly Graphical User Interface (GUI) enabling users to input MP3 files for genre recognition."
+            ]
+        }
+    ],
+    "certifications": [
+        "RHCSA- Red Hat Certified System Administrator",
+        "Programming with Python",
+        "Google Cloud Computing Foundation",
+        "GCCR - Associate Cloud Engineer",
+        "HTML And CSS"
+    ],
+    "volunteer": [
+        {
+            "description": "Volunteered in the effective implementation of UTKARSH 2022-2023 initiative by the Social Welfare & Development Committee at VIT Pune, emphasizing on uplifting the spirits of school children"
+        }
+    ]
+}
+``` &#8203;:citation[oaicite:0]{index=0}&#8203;
